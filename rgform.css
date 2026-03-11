@@ -1,0 +1,26 @@
+div{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font: size 18px; 
+font-weight: 400;
+line-height:1.6;
+text-align: center;
+color:hwb(256 75% 11%);
+background-color: rgb(168, 19, 78) ;
+background-image: url("https://img.freepik.com/free-photo/white-brush-stroke-texture-background_53876-132775.jpg")  ;
+background-position:center;
+font-style: oblique;
+font-weight: bolder;
+font-variant: small-caps;
+color: #4749bb;
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-size: cover;
+text-decoration: underline;
+text-transform: uppercase;
+
+}
+h2{
+    color: rgb(70, 206, 98);
+    font-size: 24px;
+    text-align: center;
+}
